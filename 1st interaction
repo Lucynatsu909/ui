@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Guest House booking</title>
+</head>
+<body>
+
+<h1>Guest House Booking</h1><br>
+<img alt="Guest-house" width="500" height="333"><br>
+<b>Check-In: </b>06-10-2022<br>
+<br><b>Check-out: </b>07-10-2022<br>
+<br><b>Guests: </b>2
+
+</body>
+</html>
